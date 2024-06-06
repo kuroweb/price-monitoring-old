@@ -1,10 +1,14 @@
-# price-monitoring
+# price-monitoring-old
 
 [![Deployment](https://github.com/kuroweb/price-monitoring/actions/workflows/deployment.yml/badge.svg)](https://github.com/kuroweb/price-monitoring/actions/workflows/deployment.yml)
 
 価格監視ツール
 
 Web上にある欲しい物の価格監視を行うことができる
+
+Golang, TypeScriptの勉強も兼ねて実装していたものの、BFF（Golang）が冗長で開発スピードがでないので撤去することにした。
+
+↑ に伴い、これまでの作業内容は本リポジトリに退避させた。
 
 ## 技術スタック
 
